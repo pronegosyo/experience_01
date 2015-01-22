@@ -1,0 +1,8 @@
+{
+	"id": "experience_01",
+	"name": "Experience 01",
+	"content-template": "experience_01.php",
+	"default-css": "experience_01.css",
+	"custom-fields": [],
+	"dependencies": []
+}
